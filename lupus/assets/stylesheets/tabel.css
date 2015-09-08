@@ -1,0 +1,20 @@
+table {
+    *border-collapse: collapse; /* IE7 and lower */
+    border-spacing: 0;
+    width: 55%;
+	margin: 0;
+	padding: 3px;
+	position: absolute;
+	left: 23%;
+	background: white;    
+}
+
+thead {
+	border-spacing: 0;
+	margin: 0;
+	background: #D3D3D3; 
+}
+
+.head td {
+	font-weight:bold;
+}
